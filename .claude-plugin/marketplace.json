@@ -1,0 +1,17 @@
+{
+  "name": "stagentic",
+  "owner": {
+    "name": "Stagentic",
+    "url": "https://github.com/stagentic"
+  },
+  "plugins": [
+    {
+      "name": "stagentic-promptbook",
+      "source": {
+        "source": "github",
+        "repo": "stagentic/stagentic-promptbook"
+      },
+      "description": "PlantUML activity diagrams as Claude Code skill workflows"
+    }
+  ]
+}
